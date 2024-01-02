@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="tejas_text">Hello World! My name is Tejas (rhymes with contagious) and one of my favorite games is the Witcher 3!</string>
+    <string name="button_text">Say hello!</string>
+</resources>
